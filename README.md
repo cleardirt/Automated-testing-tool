@@ -41,3 +41,7 @@ JSMA
 ## 项目功能概述
 
 首先加载模型，选择测试样本，并通过perturbation_single方法生成对抗性样本，最后绘制对抗性样本的图像
+
+### 工具复现讲解视频链接
+
+https://box.nju.edu.cn/d/944e66b410f345eda78c/
